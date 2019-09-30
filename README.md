@@ -1,3 +1,3 @@
-# my_-irst-repository
+# my-first-repository
 
 repository introduction
